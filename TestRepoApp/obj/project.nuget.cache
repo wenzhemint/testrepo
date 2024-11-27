@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QjwncTirxpZdgyYvd4Y8UGTg+bp3MG0BJdfmn4EkeaYu/TwqaDdiG6gnkaSAPonT9jv8BFguYCjZYuCZ+NSz1A==",
+  "dgSpecHash": "HzFiMxhS6gUy7kvofGDwfLABFvEeAvjpj4EoHcefTYSh8PvkLURbHcayUA2WWX/+9cmkklN9lFJeC337l9+3WA==",
   "success": true,
-  "projectFilePath": "/Users/wenzhemin/Desktop/DataDev/TestRepoApp/TestRepoApp/TestRepoApp.csproj",
+  "projectFilePath": "/Users/wenzhemin/Desktop/DataDev/testrepo/TestRepoApp/TestRepoApp.csproj",
   "expectedPackageFiles": [
+    "/Users/wenzhemin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
     "/Users/wenzhemin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
-    "/Users/wenzhemin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
-    "/Users/wenzhemin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+    "/Users/wenzhemin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }

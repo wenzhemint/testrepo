@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wenzhemin/Desktop/DataDev/TestRepoApp/TestRepoApp/TestRepoApp.csproj",
+      "projectUniqueName": "/Users/wenzhemin/Desktop/DataDev/testrepo/TestRepoApp/TestRepoApp.csproj",
       "projectName": "TestRepoApp",
-      "projectPath": "/Users/wenzhemin/Desktop/DataDev/TestRepoApp/TestRepoApp/TestRepoApp.csproj",
+      "projectPath": "/Users/wenzhemin/Desktop/DataDev/testrepo/TestRepoApp/TestRepoApp.csproj",
       "packagesPath": "/Users/wenzhemin/.nuget/packages/",
-      "outputPath": "/Users/wenzhemin/Desktop/DataDev/TestRepoApp/TestRepoApp/obj/",
+      "outputPath": "/Users/wenzhemin/Desktop/DataDev/testrepo/TestRepoApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wenzhemin/.nuget/NuGet/NuGet.Config"
