@@ -17,16 +17,9 @@ class Calculator
         }
         catch (Exception ex)
         {
-            return $"Error: {ex.Message}";
+            var error = $"Error: {ex.Message}";
+            return error;
         }
-    }
-
-    static void Main(string[] args)
-    {
-        // Examples
-        Console.WriteLine(Calculate("5 + 3 * (2 - 8)"));   // -11
-        Console.WriteLine(Calculate("10 / 2 + 6"));       // 11
-        Console.WriteLine(Calculate("invalid expression")); // Error
     }
 }
 
