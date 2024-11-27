@@ -17,7 +17,7 @@ class Calculator
         }
         catch (Exception ex)
         {
-            return $"Error: {ex.Message}";
+            return $"Errors: {ex.Message}";
         }
     }
 
